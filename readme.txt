@@ -1,6 +1,6 @@
 === Facebook Social Pack ===
 Contributors: junaidrajpoot
-Tags: facebook,social plugin,template,theme,wordpress,wordpress.org
+Tags: facebook social plugin download, facebook social plugin wordpress, facebook, social plugin, wordpress plugins, wordpress.org
 Requires at least: 3.7
 Tested up to: 4.1
 Stable tag: 1.0
@@ -14,6 +14,24 @@ This facebook social wordpress free plugin has amazing features. It has user fri
 
 == Installation ==
 Just go to your site admin area and click on Plugins -> Add New and upload the plugin package that we are providing and after uploading it just click on Activate Plugin link. After following these steps you will see the menu of FB Social Plugins. For initial settings just go to this path FB Social Plugins -> FB General Settings and there you will see the field of facebook app id. If you already have the facebook app id just enter it and save it and if you don’t have facebook app id then first create the facebook app id using this link https://developers.facebook.com/quickstarts/?platform=web . We are done here for initial settings.
+
+
+
+== Screenshots ==
+
+
+1. Adding Facebook Plugin
+
+2. Adding Facebook Plugin Form
+3. Update Option of Facebook Plugin
+4. 
+Update Facebook Plugin Form
+5. Facebook Plugins Listing Menu
+6. Facebook Plugins Listing With Shortcode of each plugin
+7. Each Plugin Shortcode
+
+8. Facebook Social Pack Plugin General settings
+9. General settings Page to update app id
 
 == Frequently Asked Questions ==
 1).How To Add Facebook Social Plugins?

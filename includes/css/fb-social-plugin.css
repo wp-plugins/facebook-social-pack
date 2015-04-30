@@ -1,0 +1,4 @@
+/* CSS Document */
+.fb-comments, .fb-comments > span, .fb-comments iframe, .fb-send, .fb-send > span, .fb-send iframe, .fb-like, .fb-like > span, .fb-like iframe {
+	width:100% !important;
+}

@@ -1,5 +1,5 @@
 === Facebook Social Pack ===
-Contributors: junaidrajpoot, rehmanali
+Contributors: junaidrajpoot, themesrefinery
 Tags: facebook social plugin download, facebook social plugin wordpress, facebook, social plugin, wordpress plugins, wordpress.org
 Requires at least: 3.7
 Tested up to: 4.1

@@ -1,5 +1,6 @@
 === Facebook Social Pack ===
 Contributors: junaidrajpoot, themesrefinery
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EWYQPYFFN762W&lc=US&item_name=wordpress%20plugin%20%2d%20facebook%20social%20pack&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: facebook social plugin download, facebook social plugin wordpress, facebook, social plugin, wordpress plugins, wordpress.org
 Requires at least: 3.7
 Tested up to: 4.1
